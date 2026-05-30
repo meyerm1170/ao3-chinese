@@ -1,4 +1,4 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：meyer
 更新时间：2026.05.30
 
@@ -26,12 +26,20 @@ ssaem: 老师
 maknae: 忙内
 mathyung: 大哥
 sunbae: 前辈
+comeback: 回归
+promotion: 活动期
+Music Bank: 音乐银行
+Inkigayo: 人气歌谣
+
 
 禁翻词条
 "-ssi"
 "-san"
 "-nim"
 PD
+"M Countdown"
+Mnet
+
 
 
 
