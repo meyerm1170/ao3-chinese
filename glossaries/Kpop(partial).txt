@@ -1,0 +1,363 @@
+版本号：1.0.0
+维护者：oxds44@gmail.com
+更新时间：2026.05.30
+
+//按团体标注，每个团体下分通用词条（不区分大小写）、禁翻词条（禁止翻译）、词条（严格区分大小写）
+//艺名如利特、温流等则根据习惯翻译，如key jessica等则选择禁翻
+//本名涉及台湾大陆译名不同时根据维护者习惯翻译
+//如有错漏、订正、增删等需要更新的情况请联系邮箱
+//已收录团体：红 蓝 闪 函 少时 红贝贝 吒 EXO RIIZE 划 次 BP BTS 档 门童 岸 符 葡 昼
+
+//常见韩语（和日语）
+
+通用词条
+hyung: 哥
+"-hyung": 哥
+noona: 姐姐
+"-noona": 姐姐
+oppa: 哥哥
+"-oppa": 哥哥
+unnie: 姐姐
+"-unnie": 姐姐
+"-chan": 酱
+"-kun": 君
+seonsaengnim: 老师
+ssaem: 老师
+maknae: 忙内
+mathyung: 大哥
+sunbae: 前辈
+
+禁翻词条
+"-ssi"
+"-san"
+"-nim"
+PD
+
+
+
+// Super Junior
+通用词条
+Park Jungsoo = 朴 正洙
+Leeteuk = 利特
+Kim Heechul = 金 希澈
+Kim Kanghoon = 金 康熏
+Kim Jongwoon = 金 钟云
+Yesung = 艺声
+Lee Hyukjae = 李 赫宰
+Eunhyuk = 银赫
+Lee Donghae = 李 东海
+Choi Siwon = 崔 始源
+Kim Ryeowook = 金 厉旭
+Shin Donghee = 申 东熙
+Shindong = 神童
+Lee Sungmin = 李 晟敏
+Cho Kyuhyun = 曹 圭贤
+Lee Sooman = 李 秀满
+
+//TVXQ 东方神起
+通用词条
+Jung Yunho = 郑 允浩
+Shim Changmin = 沈 昌珉
+Kim Jaejoong = 金 在中
+Park Yoochun =朴 有天
+
+// SHINee
+通用词条
+Lee Taemin = 李 泰民
+Kim Kibum = 金 起范
+Choi Minho = 崔 珉豪
+Kim Jonghyun = 金 钟铉
+Lee Jinki = 李 珍基
+Onew = 温流
+禁翻词条
+Key
+
+// 少女时代 Girtls' Generation
+通用词条
+Kim Taeyeon = 金 泰妍
+Jung Sooyeon = 郑 秀妍
+Hwang Miyoung = 黄 美英
+Im Yoona = 林 允儿
+Kwon Yuri = 权 俞利
+Lee Soonkyu = 李 顺圭
+Choi Sooyoung = 崔 秀英
+Seo Joohyun = 徐 珠贤
+Seohyun = 徐贤
+Kim Hyoyeon = 金孝渊
+禁翻词条
+Jessica
+Tifanny
+Sunny
+
+//f(x)
+通用词条
+Jung Soojung = 郑 秀晶
+Song Qian = 宋 茜
+Choi Jinri = 崔 真理
+Sulli = 雪莉
+Park Sunyoung = 朴 善英
+禁翻词条
+Amber
+Krystal
+Victoria
+Luna
+
+//Red Velvet
+通用词条
+Bae Joohyun = 裴 珠泫
+Kang Seulgi = 姜 涩琪
+Son Seungwan = 孙 胜完
+Park Sooyoung = 朴 秀荣
+Kim Yerim = 金 艺琳
+禁翻词条
+Yeri
+Wendy
+Joy
+Irene
+
+//aespa
+通用词条
+Yu Jimin = 柳 智敏
+Kim Minjeong = 金 旼炡
+Ning Yizhuo = 宁 艺卓
+Uchinaga Aeri =内永 枝利
+Giselle = 吉赛尔
+Ningning = 宁宁
+禁翻词条
+Karina
+词条
+Winter：冬天
+
+//EXO
+通用词条
+Byun Baekhyun = 边 伯贤
+Park Chanyeol = 朴 灿烈
+Kim Jongin = 金 钟仁
+Kai = 凯
+Do Kyungsoo = 都 暻秀
+Oh Sehun = 吴 世勋
+Kim Junmyeon = 金 俊勉
+Kim Jongdae = 金 钟大
+Kim Minseok =金 珉锡
+Xiumin = 秀敏
+Zhang Yixing = 张 艺兴
+Lu Han = 鹿 晗
+Wu Yifan = 吴 亦凡
+Huang Zitao = 黄 子韬
+禁翻词条
+D.O
+Lay
+Suho
+Kris
+Tao
+
+//RIIZE
+通用词条
+Jung Sungchan = 郑 成灿
+Park Wonbin = 朴 元彬
+Lee Chanyoung = 李 灿荣
+Song Eunseok = 宋 恩奭
+Osaki  Shotaro = 大崎 将太郎
+Lee Sohee = 李 炤熙
+Hong Seunghan =洪 承汉
+禁翻词条
+Anton
+
+//NCT （NCT错漏可能比较多。。。）
+通用词条
+Lee Donghyuck = 李 东赫
+Haechan = 楷灿
+Mark Lee = 马克 李
+Na Jaemin = 罗 渽民
+Lee Jeno = 李 帝努
+Huang Renjun = 黄 仁俊
+Suh Youngho = 徐 英浩
+Jeong Yuno = 郑 闰伍
+Jeong Jaehyun = 郑 在玹
+Lee Taeyong = 李 泰容
+Kim Dongyoung = 金 道英
+Doyoung = 道英
+Park Jisung = 朴 志晟
+Nakamoto Yuta = 中本 悠太
+Kim Jungwoo = 金 廷祐
+Dong Sicheng = 董 思成
+Taeil = 泰一
+Lee Minhyung = 李 敏行
+Zhong Chenle = 钟 辰乐
+Qian Kun = 钱 锟
+Xiaojun = 肖俊
+Xiao Dejun = 肖 德俊
+Wong KunHang = 黄 冠亨
+Liu Yangyang = 刘 扬扬
+Wong Yukhei = 黄 旭熙
+Oh Sion = 吴 是温
+Maeda Riku = 前田 陆
+Tokuno Yushi = 得能 勇志
+Kim Daeyoung = 金 垈永
+Jaehee = 栽禧
+Hirose Ryo = 广濑 辽
+Fujinaga Sakuya = 藤永 咲哉
+禁翻词条
+Johnny
+Winwin
+Hendery
+Lucas
+词条
+Ten：李永钦
+
+//BlackPink
+通用词条
+Park Chaeyoung = 朴 彩英
+Kim Jisoo = 金 智秀
+禁翻词条
+Lisa
+Lalisa
+Rosé
+Jennie
+JYP
+
+//BTS
+通用词条
+Jeon Jungkook = 田 柾国
+Park Jimin = 朴 智旻
+Min Yoongi = 闵 玧其
+Kim Taehyung = 金 泰亨
+Kim Namjoon = 金 南俊
+Kim Seokjin = 金 硕珍
+Jung Hoseok = 郑 号锡
+Bang Sihyuk = 方 时赫
+禁翻词条
+Suga
+RM
+Jin
+J-Hope
+"Hitman Bang"
+BIGHIT
+HYBE
+
+// Seventeen
+通用词条
+Choi Seungcheol = 崔 胜澈
+Yoon Jeonghan = 尹 净汉
+Hong Jisoo = 洪 知秀
+Wen Junhui = 文 俊辉
+Kwon Soonyoung = 权 顺荣
+Jeon Wonwoo = 全 圆佑
+Lee Jihoon = 李 知勋
+Lee Seokmin = 李 硕珉
+Kim Mingyu = 金 玟奎
+Xu Minghao = 徐 明浩
+Boo Seungkwan = 夫 胜宽
+Chwe Hansol = 崔 瀚率
+Lee Chan = 李 灿
+禁翻词条
+Joshua
+Vernon
+The8
+DK
+Woozi
+Hoshi
+Pledis
+
+//Tomorrow X Together
+通用词条
+Choi Soobin = 崔 秀彬
+Choi Yeonjun = 崔 然竣
+Choi Beomgyu = 崔 杋圭
+Kang Taehyun = 姜 太显
+Huening Kai = 休宁 凯
+tobin = 兔彬
+hobak = 琥珀
+禁翻词条
+tori
+toto
+odi
+
+//BOYNEXTDOOR
+通用词条
+Han Dongmin = 韩 东旼
+Taesan = 泰山
+Myung Jaehyun = 明 宰铉
+Kim Donghyun = 金 桐儇
+Leehan = 李涵
+Park Sungho = 朴 成淏
+Lee Sanghyeok = 李 常赫
+Kim woonhak = 金 云鹤
+Woo Jiho = 禹 智皓
+禁翻词条
+Riwoo
+Zico
+KOZ
+
+//ENHYPEN
+通用词条
+Lee Heeseung = 李 羲承
+Park Jongseong = 朴 综星
+Sim Jaeyun = 沈 载伦
+Park Sunghoon = 朴 成训
+Kim Seonwoo = 金 善禹
+Sunoo = 善禹
+Yang Jungwon = 梁 祯元
+Nishimura Riki = 西村 力
+禁翻词条
+Jay
+Jake
+Niki
+Ni-ki
+Evan
+BELIFT
+
+// &TEAM
+通用词条
+Koga Yudai = 古贺 祐大
+Murata Fuma = 村田 风雅
+Wang Ihsiang = 王 奕翔
+Wang Yixiang = 王 奕翔
+Byun Euijoo = 边 义州
+Nakakita Yuma = 中耒田 悠真
+Asakura Jo = 朝仓 穣
+Shigeta Harua = 重田 美琉爱
+Takayama Riki = 高山 浬希
+Maus Riki = 宏田 力
+Hitora Riki = 宏田 力
+禁翻词条
+K
+Nicholas
+EJ
+Taki
+Maki
+
+//Kep1er
+通用词条
+Choi Yujin = 崔 有真
+Shen Xiaoting = 沈 小婷
+Kim Chaehyun = 金 采炫
+Kim Dayeon = 金 多娟
+Ezaki Hikaru = 江崎 光
+Huening Bahiyyih = 休宁 巴伊叶
+Sakamoto Mashiro = 坂本 舞白
+Seo Youngeun = 徐 永恩
+Kang Yeseo = 姜 艺书
+Hiyyih = 伊叶
+禁翻词条
+"Giels Planet 999"
+
+//ZB1
+通用词条
+Kim Jiwoong = 金 地雄
+Sung Hanbin = 成 韩彬
+Seok Matthew = 石 马修
+Seok Woohyun = 石 友铉
+Kim Taerae = 金 泰来
+Park Gunwook = 朴 乾旭
+Zhang Hao = 章 昊
+Shen Quanrui = 沈 泉锐
+Kim Gyuvin = 金 奎彬
+Han Yujin = 韩 维辰
+禁翻词条
+Ricky
+"BOYS PLANET"
+
+//AND2BLE
+通用词条
+Yoo Seungeon = 刘 晟彦
