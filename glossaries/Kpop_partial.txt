@@ -32,6 +32,7 @@ comeback: 回归
 promotion: 活动期
 Music Bank: 音乐银行
 Inkigayo: 人气歌谣
+bangsong: 放送
 
 
 禁翻词条
@@ -44,6 +45,9 @@ Mnet
 Alpha
 Beta
 Omega
+kakaotalk
+kkt
+"kakao talk"
 
 
 
@@ -80,6 +84,7 @@ tori
 toto
 odi
 MOA
+huehue
 
 //aespa
 通用词条
@@ -168,9 +173,15 @@ Hitora Riki = 宏田 力
 禁翻词条
 K
 Nicholas
+Nico
+nini
 EJ
+Juju
 Taki
 Maki
+Jojo
+
+
 
 //Kep1er
 通用词条
@@ -347,6 +358,7 @@ Johnny
 Winwin
 Hendery
 Lucas
+Oh
 词条
 Ten：李永钦
 Mark: 马克
@@ -355,6 +367,7 @@ Mark: 马克
 通用词条
 Park Chaeyoung = 朴 彩英
 Kim Jisoo = 金 智秀
+
 禁翻词条
 Lisa
 Lalisa
