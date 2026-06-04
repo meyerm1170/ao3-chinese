@@ -1,0 +1,23 @@
+版本号：1.0.1
+维护者：meyer
+更新时间：2026.06.04
+
+// ABO特殊补丁
+
+通用词条
+rut: 易感期
+heat: 发情期
+pack: 狼群
+puppy: 幼崽
+knot: 结
+knotting: 成结
+mark: 标记
+
+禁翻词条
+Alpha
+alpha
+Beta
+beta
+Omega
+omega
+
