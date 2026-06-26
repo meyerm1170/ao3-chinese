@@ -1,4 +1,4 @@
-版本号：1.0.1
+版本号：1.0.2
 维护者：meyer
 更新时间：2026.06.04
 
@@ -9,9 +9,10 @@ rut: 易感期
 heat: 发情期
 pack: 狼群
 puppy: 幼崽
-knot: 结
 knotting: 成结
 mark: 标记
+pre-heat: 预发情
+"scent blocker": 气味阻隔剂
 
 禁翻词条
 Alpha
