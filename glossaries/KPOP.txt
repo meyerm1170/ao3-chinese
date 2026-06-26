@@ -1,4 +1,4 @@
-版本号：1.0.3
+版本号：1.0.4
 维护者：meyer
 更新时间：2026.06.04
 
@@ -53,7 +53,7 @@ kkt
 
 // Super Junior
 
-通用词条
+词条
 Park Jungsoo = 朴 正洙
 Leeteuk = 利特
 Kim Heechul = 金 希澈
@@ -75,12 +75,14 @@ Lee Sooman = 李 秀满
 
 //Tomorrow X Together
 
-通用词条
+词条
 Choi Soobin = 崔 秀彬
 Choi Yeonjun = 崔 然竣
 Choi Beomgyu = 崔 杋圭
 Kang Taehyun = 姜 太显
 Huening Kamal Kai = 休宁 卡迈尔 凯
+
+通用词条
 tobin = 兔彬
 hobak = 琥珀
 
@@ -99,98 +101,9 @@ huehue
 
 
 
-//aespa
-
-通用词条
-Yu Jimin = 柳 智敏
-Kim Minjeong = 金 旼炡
-Ning Yizhuo = 宁 艺卓
-Uchinaga Aeri =内永 枝利
-Giselle = 吉赛尔
-Ningning = 宁宁
-
-禁翻词条
-Karina
-
-词条
-Winter：冬天
-
-
-
-// Seventeen
-
-通用词条
-Choi Seungcheol = 崔 胜澈
-Yoon Jeonghan = 尹 净汉
-Hong Jisoo = 洪 知秀
-Wen Junhui = 文 俊辉
-Kwon Soonyoung = 权 顺荣
-Jeon Wonwoo = 全 圆佑
-Lee Jihoon = 李 知勋
-Lee Seokmin = 李 硕珉
-Kim Mingyu = 金 玟奎
-Xu Minghao = 徐 明浩
-Boo Seungkwan = 夫 胜宽
-Chwe Hansol = 崔 瀚率
-Lee Chan = 李 灿
-
-禁翻词条
-Joshua
-Vernon
-The8
-DK
-Woozi
-Hoshi
-Pledis
-
-
-
-//BOYNEXTDOOR
-
-通用词条
-Han Dongmin = 韩 东旼
-Taesan = 泰山
-Myung Jaehyun = 明 宰铉
-Kim Donghyun = 金 桐儇
-Leehan = 李涵
-Park Sungho = 朴 成淏
-Lee Sanghyeok = 李 常赫
-Kim woonhak = 金 云鹤
-Woo Jiho = 禹 智皓
-
-禁翻词条
-Riwoo
-Zico
-KOZ
-koz
-
-
-
-//ENHYPEN
-
-通用词条
-Lee Heeseung = 李 羲承
-Park Jongseong = 朴 综星
-Sim Jaeyun = 沈 载伦
-Park Sunghoon = 朴 成训
-Kim Seonwoo = 金 善禹
-Sunoo = 善禹
-Yang Jungwon = 梁 祯元
-Nishimura Riki = 西村 力
-
-禁翻词条
-Jay
-Jake
-Niki
-Ni-ki
-Evan
-BELIFT
-
-
-
 // &TEAM
 
-通用词条
+词条
 Koga Yudai = 古贺 祐大
 Murata Fuma = 村田 风雅
 Wang Ihsiang = 王 奕翔
@@ -216,6 +129,99 @@ Taki
 Maki
 Jojo
 jojo
+
+
+
+//aespa
+
+词条
+Yu Jimin = 柳 智敏
+Kim Minjeong = 金 旼炡
+Ning Yizhuo = 宁 艺卓
+Uchinaga Aeri =内永 枝利
+Giselle = 吉赛尔
+Ningning = 宁宁
+Winter：冬天
+
+禁翻词条
+Karina
+
+
+
+
+// Seventeen
+
+词条
+Choi Seungcheol = 崔 胜澈
+Yoon Jeonghan = 尹 净汉
+Hong Jisoo = 洪 知秀
+Wen Junhui = 文 俊辉
+Kwon Soonyoung = 权 顺荣
+Jeon Wonwoo = 全 圆佑
+Lee Jihoon = 李 知勋
+Lee Seokmin = 李 硕珉
+Kim Mingyu = 金 玟奎
+Xu Minghao = 徐 明浩
+Boo Seungkwan = 夫 胜宽
+Chwe Hansol = 崔 瀚率
+Lee Chan = 李 灿
+
+禁翻词条
+Joshua
+Vernon
+The8
+DK
+Woozi
+Hoshi
+Pledis
+pledis
+
+
+
+//BOYNEXTDOOR
+
+词条
+Han Dongmin = 韩 东旼
+Taesan = 泰山
+Myung Jaehyun = 明 宰铉
+Kim Donghyun = 金 桐儇
+Leehan = 李涵
+Park Sungho = 朴 成淏
+Lee Sanghyeok = 李 常赫
+Kim woonhak = 金 云鹤
+Woo Jiho = 禹 智皓
+
+禁翻词条
+Riwoo
+Zico
+KOZ
+koz
+Koz
+
+
+
+//ENHYPEN
+
+词条
+Lee Heeseung = 李 羲承
+Park Jongseong = 朴 综星
+Sim Jaeyun = 沈 载伦
+Park Sunghoon = 朴 成训
+Kim Seonwoo = 金 善禹
+Sunoo = 善禹
+Yang Jungwon = 梁 祯元
+Nishimura Riki = 西村 力
+
+禁翻词条
+Jay
+Jake
+Niki
+Ni-ki
+Evan
+BELIFT
+belift
+Belift
+
 
 
 
@@ -251,25 +257,29 @@ Kim Taerae = 金 泰来
 Park Gunwook = 朴 乾旭
 Zhang Hao = 章 昊
 Shen Quanrui = 沈 泉锐
-Kim Gyuvin = 金 奎彬
 Han Yujin = 韩 维辰
+Gyuvin : 奎彬
 
 禁翻词条
 Ricky
 "BOYS PLANET"
+"Boys Planet"
+"boys planet"
+Qbin
+Qvin
 
 
 
 //AND2BLE
 
-通用词条
+词条
 Yoo Seungeon = 刘 晟彦
 
 
 
 //TVXQ 东方神起
 
-通用词条
+词条
 Jung Yunho = 郑 允浩
 Shim Changmin = 沈 昌珉
 Kim Jaejoong = 金 在中
@@ -279,7 +289,7 @@ Park Yoochun =朴 有天
 
 // SHINee
 
-通用词条
+词条
 Lee Taemin = 李 泰民
 Kim Kibum = 金 起范
 Choi Minho = 崔 珉豪
@@ -294,7 +304,7 @@ Key
 
 // 少女时代 Girtls' Generation
 
-通用词条
+词条
 Kim Taeyeon = 金 泰妍
 Jung Sooyeon = 郑 秀妍
 Hwang Miyoung = 黄 美英
@@ -315,13 +325,11 @@ Sunny
 
 //f(x)
 
-通用词条
+词条
 Jung Soojung = 郑 秀晶
 Choi Jinri = 崔 真理
 Sulli = 雪莉
 Park Sunyoung = 朴 善英
-
-词条
 Song Qian = 宋 茜
 
 禁翻词条
@@ -334,7 +342,7 @@ Luna
 
 //Red Velvet
 
-通用词条
+词条
 Bae Joohyun = 裴 珠泫
 Kang Seulgi = 姜 涩琪
 Son Seungwan = 孙 胜完
@@ -351,7 +359,7 @@ Irene
 
 //BlackPink
 
-通用词条
+词条
 Park Chaeyoung = 朴 彩英
 Kim Jisoo = 金 智秀
 
@@ -361,12 +369,13 @@ Lalisa
 Rosé
 Jennie
 JYP
+jyp
 
 
 
 //BTS
 
-通用词条
+词条
 Jeon Jungkook = 田 柾国
 Park Jimin = 朴 智旻
 Min Yoongi = 闵 玧其
@@ -383,11 +392,15 @@ Jin
 J-Hope
 "Hitman Bang"
 BIGHIT
+Bighit
+bighit
 HYBE
+hybe
+Hybe
 
 //EXO
 
-通用词条
+词条
 Byun Baekhyun = 边 伯贤
 Park Chanyeol = 朴 灿烈
 Kim Jongin = 金 钟仁
@@ -414,7 +427,7 @@ Tao
 
 //RIIZE
 
-通用词条
+词条
 Jung Sungchan = 郑 成灿
 Park Wonbin = 朴 元彬
 Lee Chanyoung = 李 灿荣
@@ -430,7 +443,7 @@ Anton
 
 //NCT （NCT错漏可能比较多。。。）
 
-通用词条
+词条
 Lee Donghyuck = 李 东赫
 Haechan = 楷灿
 Na Jaemin = 罗 渽民
@@ -462,6 +475,8 @@ Kim Daeyoung = 金 垈永
 Jaehee = 栽禧
 Hirose Ryo = 广濑 辽
 Fujinaga Sakuya = 藤永 咲哉
+Ten：李永钦
+Mark: 马克
 
 禁翻词条
 Johnny
@@ -469,15 +484,11 @@ Winwin
 Hendery
 Lucas
 
-词条
-Ten：李永钦
-Mark: 马克
-
 
 
 //LE SSERAFIM
 
-通用词条
+词条
 Miyawaki Sakura = 宮脇 咲良
 Kim Chaewon = 金 采源
 Yunjin = 允真
