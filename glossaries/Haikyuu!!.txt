@@ -1,0 +1,256 @@
+版本号：1.0.0
+维护者：meyer
+更新时间：2026.06.30
+
+
+//如有错漏、订正、增删等需要更新的情况请联系邮箱: oxds44@gmail.com
+//参考：萌娘百科(队伍)，en.wikipedia (nickname)
+
+词条
+
+//乌野
+Hinata Shoyo = 日向 翔阳
+Natsu = 夏
+Kageyama Tobio = 影山 飞雄
+Miwa = 美羽
+// 一与
+Tsukishima Kei = 月岛 萤
+Akiteru = 明光
+Yamaguchi Tadashi = 山口 忠
+Sawamura Daichi = 泽村 大地
+Sugawara Koushi = 菅原 孝支
+Azumane Asahi = 东峰 旭
+Nishinoya Yuu = 西谷 夕
+Tanaka Ryuunosuke = 田中 龙之介
+Saeko = 冴子
+Ennoshita Chikara = 缘下 力
+Kinoshita Hisashi = 木下 久志
+Narita Kazuhito = 成田 一仁
+Shimizu Kiyoko = 清水 洁子 
+Yachi Hitoka = 谷地 仁花
+Takeda Ittetsu = 武田 一铁
+Ukai Keishin = 乌养 系心
+Ikkei = 一系
+Michimiya Yui = 道宫 结
+Takinoue Yuusuke = 泷上 祐辅
+Shimada Makoto = 嶋田 诚 
+//宇内天满 田代秀水 黑川广树 
+//日向的两个朋友： 关向幸治  泉行高
+
+
+//青城
+Oikawa Tooru = 及川 彻
+Matsukawa Issei = 松川 一静
+Hanamaki Takahiro = 花卷 贵大
+Iwaizumi Hajime = 岩 泉一
+Yahaba Shigeru = 矢巾 秀
+Watari Shinji = 渡 親治
+Kindaichi Yuutarou = 金田一 勇太郎
+Kunimi Akira = 国见 英
+Kyoutani Kentarou = 京谷 贤太郎
+Irihata Nobuteru = 入畑 伸照
+
+
+//音驹
+Kuroo Tetsurou = 黑尾 铁朗
+Kai Nobuyuki = 海 信行
+Morisuke Yaku = 夜久 卫辅
+Yamamoto Taketora = 山本 猛虎
+Kozume Kenma = 孤爪 研磨
+Fukunaga Shouhei = 福永 招平
+Inuoka Sou = 犬岡 走
+Haiba Lev = 灰羽 列夫
+Alisa = 艾莉莎
+Shibayama Yuuki = 芝山 优生
+Nekomata Yasufumi = 猫又 育史
+// 手白球彦   直井学 山本茜
+
+
+//伊达工
+Moniwa Kaname = 茂庭 要
+Kamasaki Yasushi = 镰先 靖志
+Futakuchi Kenji = 二口 坚治
+Aone Takanobu = 青根 高伸
+Yutaka Obara = 小原 豊
+Kousuke Sakunami = 作並 浩辅
+Koganegawa Kanji = 黄金川 贯至
+Oiwake Takurou = 追分 拓郎
+
+//枭谷
+Bokuto Koutarou = 木兔 光太郎
+Akaashi Keiji = 赤苇 京治
+Washio Tatsuki = 鹫尾 辰生
+Sarukui Yamato = 猿杙 大和
+Konoha Akinori = 木叶 秋纪
+Anahori Shuuichi = 穴掘 秀一
+Komi Haruki = 小见 春树
+Onaga Waratu = 尾长 渉
+
+//白鸟泽
+Ushijima Wakatoshi = 牛岛 若利
+Tendou Satori = 天童 觉
+Goshiki Tsutomu = 五色 工
+Shirabu Kenjirou = 白布 贤二郎
+Ouhira Reon = 大平 狮音
+Semi Eita = 濑见 英太
+Yamagata Hayato = 山形 隼人
+Kawanishi Taichi = 川西 太一
+Washijou Tanji = 鹫匠 锻治
+
+//条善寺
+Terushima Yuuji = 照島 遊儿
+
+//和久谷南
+//中岛猛
+
+//户美
+//大将优  潜尚保  山架美华
+
+//稻荷崎
+Kita Shinsuke = 北 信介 
+Oumimi Ren = 大耳 练
+Ojiro Aran = 尾白 阿兰
+Ginjima Hitoshi = 银岛 结
+Miya Atsumu = 宫 侑
+Suna Rintarou = 角名 伦太郎
+Miya Osamu = 宫 治
+Kosaku Yuuto = 小作 裕渡
+Riseki Heisuke = 理石 平介
+Akagi Michinari = 赤木 路成
+
+//鸥台
+Hoshiumi Kourai = 星海 光来
+Hirugami Sachirou = 昼神 幸郎
+// 白马芽生
+
+//井闼山
+Iizuna Tsukasa = 饭纲 掌
+Sakusa Kiyoomi = 佐久早 圣臣 
+Komori Motoya = 古森 元也
+
+//狢坂
+//桐生八
+
+//新山女子
+// 天内叶歌
+
+//其他
+Kuryuu Wakatsu = 桐生 若津
+
+//校名 队名 地名
+Koukou: 高中
+Gakuen : 学园
+Academy: 学园
+Chuutou-bu : 初中部
+Chuutoubu : 初中部
+Karasuno : 乌野
+Nekoma : 音驹
+Aoba Johsai = 青叶 城西
+Date-Tech : 伊达工
+Datekougyou : 伊达工
+Fukurodani : 枭谷
+Shiratorizawa : 白鸟泽
+Inarizaki : 稻荷崎
+Kamomedai : 鸥台
+Itachiyama : 井闼山
+Itachiyama Institute : 井闼山学院
+Ubugawa : 生川
+Shinzen : 森然
+Kitagawa Daiichi = 北川 第一
+
+V League : V联盟
+Black Jackals : 黑狼
+Schweiden Adlers = 施怀登 阿德勒
+EJP Raijin : EJP雷神
+VC Kanagawa :  VC神奈川
+Sendai Frogs : 仙台蛙
+//Tachibana Red Falcons : 
+
+Asas São Paulo : 圣保罗阿萨斯
+Ali Roma : 阿里罗马
+San Juan : 圣胡安
+Tigr Ekaterinburg : 叶卡捷琳堡老虎队
+
+//Orzeł Warszawa : 
+
+Miyagi Prefecture = 宫城 县
+Hyougo : 兵库
+Touhoku : 东北
+Sendai : 仙台
+Aichi : 爱知
+Nagano : 长野
+Kanto : 关东
+Kansai : 关西
+Inari Oukami : 稻荷大神
+
+
+
+Furudate Haruichi = 古馆春一
+
+
+
+通用词条
+//常见日语
+senpai : 前辈
+
+//各类nickname
+Little Giant: 小巨人
+Flightless Crows : 不会飞的乌鸦
+Fallen Champs : 没落的豪强
+//King of the Court : 
+battle of the trash heap : 垃圾场之战
+
+//昵称
+Mr. Refreshing : 爽朗君
+//Samurai Man: 
+tsukki : 小月
+noya : 小谷
+Mattsun : 小松
+Makki : 小卷
+iwa-chan : 小岩
+//Turnip Head : 
+//Curtain Hair : 
+kyouken-chan : 小狂犬
+Mad Dog: 小狂犬
+//scheming captain : 
+Iron Wall : 铁壁
+saru : 猿
+ushiwaka : 牛若
+tsumu = 侑
+samu = 治
+
+
+
+//排球术语
+quick attack : 快攻
+setter : 二传手
+spiker : 主攻手
+middle blocker : 副攻手
+MB : 副攻手
+wing spiker : 主攻手
+ace : 王牌
+libero : 自由人
+
+
+jump float serve : 跳飘球
+read block : 预判拦网
+backup: 替补
+//serving specialist : 
+//provocation expert : 
+
+
+Japan Volleyball Association : 日本排球协会
+Shonen Jump : 少年Jump
+JNT : 日本国家队
+//All-Japan Youth Training Camp : 
+
+//队旗
+One ball, heart, and soul : 一球入魂
+we don't need the memories : 毋须追忆昨日
+
+禁翻词条
+MSBY
+msby
+Kodzuken
+kodzuken
+KODZUKEN
