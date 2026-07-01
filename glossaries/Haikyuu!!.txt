@@ -1,19 +1,19 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：meyer
-更新时间：2026.06.30
+更新时间：2026.07.01
 
 
 //如有错漏、订正、增删等需要更新的情况请联系邮箱: oxds44@gmail.com
-//参考：萌娘百科(队伍)，en.wikipedia (nickname)
+//参考：萌娘百科(队伍)，en.wikipedia (nickname), Haikyuu wiki
 
 词条
 
-//乌野
+//乌野及相关人员
 Hinata Shoyo = 日向 翔阳
 Natsu = 夏
 Kageyama Tobio = 影山 飞雄
 Miwa = 美羽
-// 一与
+Kazuyo = 一与
 Tsukishima Kei = 月岛 萤
 Akiteru = 明光
 Yamaguchi Tadashi = 山口 忠
@@ -34,9 +34,11 @@ Ikkei = 一系
 Michimiya Yui = 道宫 结
 Takinoue Yuusuke = 泷上 祐辅
 Shimada Makoto = 嶋田 诚 
-//宇内天满 田代秀水 黑川广树 
-//日向的两个朋友： 关向幸治  泉行高
-
+Udai Tenma = 宇内 天满 
+Tashiro Hidemi = 田代 秀水 
+Kurokawa Hiroki = 黑川 广树 
+Sekimukai Koji = 关向 幸治  
+Izumi Yukitaka = 泉 行高
 
 //青城
 Oikawa Tooru = 及川 彻
@@ -50,12 +52,12 @@ Kunimi Akira = 国见 英
 Kyoutani Kentarou = 京谷 贤太郎
 Irihata Nobuteru = 入畑 伸照
 
-
 //音驹
 Kuroo Tetsurou = 黑尾 铁朗
 Kai Nobuyuki = 海 信行
 Morisuke Yaku = 夜久 卫辅
 Yamamoto Taketora = 山本 猛虎
+Akane = 茜
 Kozume Kenma = 孤爪 研磨
 Fukunaga Shouhei = 福永 招平
 Inuoka Sou = 犬岡 走
@@ -63,8 +65,8 @@ Haiba Lev = 灰羽 列夫
 Alisa = 艾莉莎
 Shibayama Yuuki = 芝山 优生
 Nekomata Yasufumi = 猫又 育史
-// 手白球彦   直井学 山本茜
-
+Teshirota Mahiko = 手白球彦   
+Naoi Manabu = 直井 学
 
 //伊达工
 Moniwa Kaname = 茂庭 要
@@ -85,6 +87,7 @@ Konoha Akinori = 木叶 秋纪
 Anahori Shuuichi = 穴掘 秀一
 Komi Haruki = 小见 春树
 Onaga Waratu = 尾长 渉
+Shirofuku Yukie = 白福 雪绘
 
 //白鸟泽
 Ushijima Wakatoshi = 牛岛 若利
@@ -98,13 +101,22 @@ Kawanishi Taichi = 川西 太一
 Washijou Tanji = 鹫匠 锻治
 
 //条善寺
-Terushima Yuuji = 照島 遊儿
+Terushima Yuuji = 照岛 遊儿
+Misaki Hana = 三咲 华
 
 //和久谷南
-//中岛猛
+Nakashima Takeru = 中岛 猛
 
 //户美
-//大将优  潜尚保  山架美华
+Daishou Suguru = 大将 优
+Sakishima Izumi = 先岛 伊澄
+Takachiho Yoshiya = 高千穂 恵也 
+Hiroo Kouji = 广尾 倖儿
+Kuguri Naoyasu = 潜 尚保 
+Numai Kazuma = 沼井 和马
+Akama Sou = 赤间 飒
+Seguro Akihiko = 背黑 晃彦
+Yamaka Mika = 山架 美华
 
 //稻荷崎
 Kita Shinsuke = 北 信介 
@@ -157,6 +169,7 @@ Itachiyama Institute : 井闼山学院
 Ubugawa : 生川
 Shinzen : 森然
 Kitagawa Daiichi = 北川 第一
+Yukigaoka : 雪之丘
 
 V League : V联盟
 Black Jackals : 黑狼
@@ -183,11 +196,7 @@ Kanto : 关东
 Kansai : 关西
 Inari Oukami : 稻荷大神
 
-
-
 Furudate Haruichi = 古馆春一
-
-
 
 通用词条
 //常见日语
@@ -197,7 +206,7 @@ senpai : 前辈
 Little Giant: 小巨人
 Flightless Crows : 不会飞的乌鸦
 Fallen Champs : 没落的豪强
-//King of the Court : 
+King of the Court : 球场上的王者
 battle of the trash heap : 垃圾场之战
 
 //昵称
